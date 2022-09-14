@@ -1,0 +1,13 @@
+name = "ConformalRegressor"
+uuid = "e27ce7da-4fbf-4b25-8854-3c4d15fd28ff"
+authors = ["Resul Akay <resulakay1@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
